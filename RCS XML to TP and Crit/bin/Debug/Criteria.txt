@@ -1,0 +1,1 @@
+<MPG>TESTBOX_RCS, "Auto generated Criteria code from RCS .xml file"
