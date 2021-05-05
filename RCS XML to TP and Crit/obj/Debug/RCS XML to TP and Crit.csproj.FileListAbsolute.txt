@@ -18,3 +18,13 @@ C:\Users\eiatlse\Desktop\RCS XML to TP and Crit\RCS XML to TP and Crit\obj\Debug
 C:\Users\eiatlse\Desktop\RCS XML to TP and Crit\RCS XML to TP and Crit\bin\Debug\RCS XML to TP and Crit.exe.config
 C:\Users\eiatlse\Desktop\RCS XML to TP and Crit\RCS XML to TP and Crit\bin\Debug\RCS XML to TP and Crit.exe
 C:\Users\eiatlse\Desktop\RCS XML to TP and Crit\RCS XML to TP and Crit\bin\Debug\RCS XML to TP and Crit.pdb
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\bin\Debug\RCS XML to TP and Crit.exe.config
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\bin\Debug\RCS XML to TP and Crit.exe
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\bin\Debug\RCS XML to TP and Crit.pdb
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\obj\Debug\RCS XML to TP and Crit.csprojAssemblyReference.cache
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\obj\Debug\RCS_XML_to_TP_and_Crit.Form1.resources
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\obj\Debug\RCS_XML_to_TP_and_Crit.Properties.Resources.resources
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\obj\Debug\RCS XML to TP and Crit.csproj.GenerateResource.cache
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\obj\Debug\RCS XML to TP and Crit.csproj.CoreCompileInputs.cache
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\obj\Debug\RCS XML to TP and Crit.exe
+C:\Users\eiatlse\Desktop\RCS_XML_to_TP_and_Crit\RCS XML to TP and Crit\obj\Debug\RCS XML to TP and Crit.pdb
