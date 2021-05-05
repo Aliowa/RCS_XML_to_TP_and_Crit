@@ -69,7 +69,7 @@ namespace RCS_XML_to_TP_and_Crit
                     }
                     if (nodeReader.IsStartElement() && nodeReader.Name.Equals("testset"))
                     {
-                        TestPlan.WriteLine($"  RUN({nodeReader.GetAttribute(0).ToUpper()}, \"{nodeReader.GetAttribute(1)} <{nodeReader.GetAttribute(0).ToUpper()}>, mTestBox, DUT1:TESTBOX_RCS:{nodeReader.GetAttribute(0).ToUpper()},{new Func<string>(() => { if (String.IsNullOrEmpty(textBox1.Text)) return ""; else return $" CONNECTION_NAME_S:{textBox1.Text};".ToUpper(); }).Invoke()},)");
+                        TestPlan.WriteLine($"  RUN({nodeReader.GetAttribute(0).ToUpper()}, \"{nodeReader.GetAttribute(1)} <{nodeReader.GetAttribute(0).ToUpper()}>\", mTestBox, DUT1:TESTBOX_RCS:{nodeReader.GetAttribute(0).ToUpper()},{new Func<string>(() => { if (String.IsNullOrEmpty(textBox1.Text)) return ""; else return $" CONNECTION_NAME_S:{textBox1.Text};".ToUpper(); }).Invoke()},)");
                         Criteria.WriteLine($"<MP:I> {nodeReader.GetAttribute(0).ToUpper()},\"{nodeReader.GetAttribute(1)} {new Func<string>(() => { if (nodes >= 4) return $"({ nodeReader.GetAttribute(3)})"; else return ""; }).Invoke()}\",,,EQU,1");
                         Criteria.WriteLine($"<DATA> TBCOMMAND_S,\"{nodeReader.GetAttribute(0)}\"{new Func<string>(() => { if (nodeReader.GetAttribute(0) == "cpm_0011") return $",,SEARCH_AS,cores:{textBox2.Text.ToString()}"; else if (nodeReader.GetAttribute(0) == "early_init") return $",,SEARCH_AS,{textBox3.Text.ToString()}"; else return ""; }).Invoke()}");
                     }
